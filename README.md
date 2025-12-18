@@ -11,3 +11,5 @@ Analyzes tremor frequency & amplitude
 Uses signal processing + ML
 Classifies tremor as Normal / Parkinsonian-like
 Displays results on a dashboard
+
+Here is the link of my project: https://smart-tremor-analysis.streamlit.app/
